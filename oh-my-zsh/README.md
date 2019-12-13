@@ -6,6 +6,7 @@ Tambem gostei porque ele trata de forma padronizada varias coisas que eu costuma
 
 ## plugins.txt
 [OMZ Plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
+
 É um trabalho que eu fiz para conhecer melhor tanto o OMZ como para conhecer as ferramentas que ele integra. 
 O resultado é uma lista dos plugins com uma breve descrição do que ele faz. 
 
