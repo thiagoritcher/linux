@@ -1,0 +1,506 @@
+ansible
+    Definição e automação de infraestrutura de TI
+    Integração com diversas plataformas de clound 
+    Comunicação unificada por SSH com servidores remotos
+        Comandos definidos por configuração
+arcanist
+    Integração de linha de comando com Phabricator
+    Phabricator
+        Dashboard com chat, links e integração com GIT
+        Sistema de comunicação de equipes e organização de projetos
+asdf
+    Gerenciamento da versão da ferramenta por projeto
+        Ex. versão do java, ou do python a ser usada no projeto
+        Suporte a multiplas versoes instaladas
+autoenv
+    Ajuste automatico de variaveis de ambiente por diretorio
+autojump
+    Mantem um banco de dados dos diretorio mais visitados
+    j foo - Pula para um o primeiro diretorio mais usado que contenha foo
+autopep8
+    Formatação automática de codigo Python
+aws
+    Integração com o serviço AWS
+battery
+    Permite integrar informações da bateria no tema do console
+bbedit
+   Plugin for BBEdit, an HTML and text editor for Mac OS X
+bgnotify
+    cross-platform background notifications for long running commands! Supports OSX and Ubuntu linux.
+boot2docker
+    Using docker-machine commands, you can start, inspect, stop, and restart a managed host, 
+bower
+   Bower -  A package manager for the web
+branch
+   Displays the current Git or Mercurial branch 
+brew
+   The missing package manager for macOS (or Linux) 
+bundler
+    Bundler provides a environment for Ruby projects by installing the exact gems and versions that are needed.
+cabal
+    Cabal, a build tool for Haskell.
+cake
+cakephp3
+    CakePHP framework para sites PHP
+capistrano
+    A remote server automation and deployment tool written in Ruby.
+cargo
+    Cargo is the Rust package manager. 
+cask
+    Cask is a project management tool for Emacs Lisp to automate the package development cycle
+catimg
+    Mostrar imagens em baixa definição no terminal
+celery
+    Celery - Distributed Task Queue
+chruby
+   Changes the current Ruby.
+chucknorris
+    Print random Chuck Norris quote
+cloudapp
+    CloudApp plugin allows you to upload a file to your CloadApp 
+cloudfoundry
+    Interface de gerenciamento de serviços clound de multiplos provedores
+codeclimate
+    COMERCIAL: Analise de dados de commits e tickets para relatórios gerenciais
+coffee
+    Coffeescript plugin - compilação e preview
+colemak
+    Colemak - modelo de layout de teclado não padrao (QWERTY)
+*colored-man-pages
+    Man pages coloridas :D
+colorize
+    ccat - syntax hightlight para o cat pelo tipo de arquivo 
+command-not-found
+    Caso o programa nao seja encontrado, indica os pacotes que contem o programa chamado
+common-aliases 
+    varios aliases para ls e outras comuns
+compleat
+    Generate tab completion for any shell command by specifying its usage in a familiar manpage-like format
+composer
+    A Dependency Manager for PHP
+copybuffer
+    Atalho para copiar para o clipboard o que esta digitado na linha de comando
+copydir
+    Copia o caminho da pasta atual para clipboard
+copyfile
+    Copia o conteudo de um arquivo para o clipboard
+*cp
+    Usa o rsync para fazer a copia adicionando mais segurança e melhor acomanhamento
+cpanm
+    Instalador de modulos Perl a partir do CPAN 
+dash
+    Ferramenta para de consulta de API no macOs
+*debian
+    Comandos especificos do debian - apt apitude .. 
+dircycle
+    Atalho para alternar entre diretorios visitados    
+dirhistory
+    Atalho para navegar no historico de pastas
+dirpersist
+    Mantem o historico dos ultimos 20 diretorios visitados
+django
+    Django is a high-level Python Web framework
+dnf
+    dnf is the new package manager for RPM-based distributions, which replaces yum
+*dnote
+    Base de conhecimento pessoal com lembretes automaticos
+doctl
+    doctl is a command line interface for the DigitalOcean API.
+dotenv
+    Automatically load your project ENV variables from .env file when you cd into project root directory.
+drush
+    Shell para o drupal
+eecms
+    ExpressionEngine CMS
+emacs
+    This plugin utilizes the Emacs daemon capability
+ember-cli
+    Ember framework javascript node
+emoji
+    Support for conveniently working with Unicode emoji in Zsh.
+emoji-clock
+    The plugin displays current time as an emoji symbol with half hour accuracy.
+emotty
+    This plugin returns an emoji for the current $TTY number so it can be used in a prompt.
+encode64
+    Alias plugin for encoding or decoding using base64 command
+extract
+    Plugin para extrair varios arquivos
+fabric
+     library designed to execute shell commands remotely over SSH, yielding useful Python objects in return
+fancy-ctrl-z
+    Use Ctrl-Z to switch back to Vim
+fasd
+    Fasd offers quick access to files and directories
+fastfile   
+     ability to on the fly generate and access file shortcuts.
+fbterm
+    This plugin automatically starts fbterm if on a real TTY
+        FbTerm - a fast FrameBuffer based TERMinal emulator for linux
+fd
+    This plugin adds completion for the file search tool fd, also known as fd-find.
+fedora
+   The fedora plugin is deprecated. Use the dnf plugin instead.
+firewalld
+    This plugin adds some aliases and functions for FirewallD using the firewalld-cmd command.
+fluttar
+    Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
+forklift
+    FTP osx
+fossil
+    Fossil is a simple, high-reliability, distributed software configuration management system 
+frontend-search
+    Pesquisa na documentação de componentes para frontend web
+fzf
+    fuzzy auto completion
+gas
+    gnu assembler - compilador
+gatsby
+    Gatsby is a free and open source framework based on React 
+gb
+    A project based build tool for the Go programming language.
+gcloud
+    This plugin provides completion support for the Google Cloud SDK CLI.
+geeknote
+    Geeknote is a command line client for Evernote that can be use on Linux,
+gem
+    This plugin adds completions and aliases for Gem - Ruby
+glassfish
+    glassfish app server java
+*globalias
+    Expande automaticamente expressoes glob, subcomandos e aliases
+gnu-utils
+    Coleção de aplicações gnu
+go
+    Depreciado
+golang
+    Comando da linguagem go
+gpg-agent
+    The GNU Privacy Guard 
+gradle
+    Comandos do gradle o programa de build Java 
+grails
+    Groovy-based web application framework for the JVM
+grunt   
+    JavaScript Task Runner - automatizador de tarefas com javascript
+gulp
+   Javascript automation
+hanami
+    Hanami is a modern web framework for Ruby.
+helm
+    The package manager for Kubernetes
+heroku
+    Heroku is a cloud platform as a service (PaaS) that lets companies build, deliver, monitor, and scale apps.
+*history
+    command to examine your command line history 
+*history-substring-search
+   type in any part of any previously entered command and press the UP and DOWN arrow keys to cycle through the matching commands. 
+homestead
+    Laravel Homestead is an official, pre-packaged Vagrant box that provides you a development environment without requiring you to install PHP, a web server, and any other server software on your local machine. 
+htpie
+    command line HTTP client, a friendlier cURL replacement.
+iterm2
+    macos
+jake-node
+    JavaScript build tool for NodeJS
+jenv
+    jenv is a Java version manager similiar to
+jhbuild
+   JHBuild is a program that can be used to pull a number of modules from a variety of sources (CVS, Subversion, Git, Bazaar, tarballs...) and build them in the correct order 
+jira
+    Atlassian's JIRA bug tracking software
+jruby   
+    The Ruby Programming Language on the JVM
+jsontools
+   Handy command line tools for dealing with json data.
+jump
+    This plugin allows to easily jump around the file system by manually adding marks.
+kate
+    This plugin adds aliases for the Kate editor.
+keychain
+    This plugin starts automatically keychain to set up and load whichever credentials you want for both gpg and ssh connections.
+kitchen
+    kitchen.ci testes em diferentes infraestruturas
+knife
+    chef.io - Chef Enterprise Automation Stack -  
+knife_ssh
+kops
+    kops helps you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes clusters from the command line
+kubectl
+    kubectl controls the Kubernetes cluster manager.
+kube-ps1
+    A Kubernetes zsh prompt that displays the current cluster cluster and the namespace.
+laravel
+    autocompletion for Laravel Artisan and Bob command-line interfaces.
+laravel4
+     aliases for common Laravel 4 commands.
+laravel5
+    common Laravel 5 commands.
+last-working-dir
+    Keeps track of the last used working directory and automatically jumps into it for new shells
+lein    
+    Leiningen Clojure build tool.
+lighthouse
+    Beautifully Simple Issue Tracking
+lol
+    Plugin for adding catspeak aliases, because why not
+macports
+    The MacPorts Project is an open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac operating 
+*magic-enter
+    This plugin makes your enter key magical, by binding commonly used commands to it.
+man
+    This plugin adds a shortcut to insert man before the previous command.
+marked2
+    Plugin for Marked 2, a previewer for Markdown files on Mac OS X
+mercurial
+    Mercurial is a free, distributed source control management tool.
+meteor
+    Meteor is an open source platform for web, mobile, and desktop
+minikube
+    Local Kubernetes, focused on application development & education
+mix
+    Mix is a build tool that provides tasks for creating, compiling, and testing Elixir projects, managing its dependencies, and more.
+mosh
+    This plugin allows SSH tab completion for mosh hostnames.
+mvn
+    The mvn plugin provides many useful aliases as well as completion for the Apache Maven command 
+mysql-macports
+    macos
+n98-magerun 
+    The swiss army knife for Magento(E-commerce) developers, sysadmins and devops.
+nanoc
+    Nanoc is a static-site generator, fit for building anything from a small personal blog to a large corporate website.
+ng
+    This ng plugin adds completion support for Angular's CLI (named ng).
+*nmap
+    Adds some useful aliases for nmap similar to the profiles in zenmap.
+node
+    Node.js aliases
+nomad
+   Nomad is a flexible workload orchestrator that enables an organization  
+npm
+    Node package manager
+npx
+    execute npm package binaries
+nvm
+    Node.js version manager. 
+nyan
+    This plugin adds a command to display Nyan Cat (japansese cat meme) right inside your terminal.
+oc
+    Red Hat's private, on-premise cloud application deployment and hosting platform.
+osx
+    macos
+otp
+    One time passwords
+pass
+    completion for the pass password manager.
+paver
+    A paver (Python build and configuration utility) plugin
+pep8
+     a tool to check your Python code against some of the style conventions in PEP 8
+*percol
+    Provides some useful function to make percol work with zsh history and jump plugin
+    percol is an interactive grep tool in your terminal
+*per-directory-history
+   This plugin adds per-directory history for zsh, as well as a global history, and the ability to toggle between them with a keyboard shortcut. 
+perl
+    This plugin adds perl useful aliases/functions.
+*perms
+    Plugin to handle some unix filesystem permissions quickly
+phing
+    it's a PHP project build system or build tool based on Apache Ant
+pip
+    completion for pip, the Python package manager.
+pipenv
+    Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
+pj
+    The pj plugin (short for Project Jump) allows you to define several folders where you store your projects
+*please
+    Please is a cross-language build system with an emphasis on high performance, extensibility and reproducibility.
+pod
+   macos 
+*postgres
+    This plugin adds some aliases for useful Postgres commands.
+pow
+    macos
+powder
+    macos
+powify
+    macos
+profiles
+    This plugin allows you to create separate configuration files for zsh based on your long hostname (including the domain).
+pyenv
+    Simple Python version management
+pylint
+    This plugin adds code analysis for python through Pylint.
+python
+   The plugin adds several aliases for useful python commands.
+rails
+    This plugin adds completion for Ruby On Rails Framework and Rake commands, as well as some aliases for logs and environment variables.
+rake
+    This plugin adds support for rake, the Ruby build tool or Ruby Make.
+rake-fast
+    Fast rake autocompletion plugin.
+rand-quote
+    Displays a random quote taken from quotationspage.com
+rbenv
+    The primary job of this plugin is to provide rbenv_prompt_info which can be added to your theme to include Ruby version and gemset information into your prompt.
+rbfu
+    Minimal Ruby version management is minimal.
+react-native
+    React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+rebar
+    This plugin adds completions for the rebar Erlang build tool.
+redis-cli
+    redis-cli is the Redis command line interface, a simple program that allows to send commands to Redis, and read the replies sent by the server, directly from the terminal.
+repo
+    Repo helps us manage the many Git repositories, does the uploads to our revision control system, and automates parts of the Android development workflow.
+ripgrep
+    ripgrep recursively searches directories for a regex pattern
+ros
+    Roswell is a Lisp implementation installer/manager, launcher, and much more!
+rsync
+    This plugin adds aliases for frequent rsync commands.
+ruby
+    This plugin adds aliases for common commands used in dealing with Ruby and gem packages.
+rust
+    This plugin adds completion for rustc, the compiler for the Rust programming language.
+rvm
+    This plugin adds some utility functions and completions for Ruby Version Manager.
+*safe-paste
+    Preventing any code from actually running while pasting, so you have a chance to review what was actually pasted before running it.
+salt
+    Software to automate the management and configuration of any infrastructure or application at scale. 
+sbt
+    The interactive build tool Define your tasks in Scala. Run them in parallel from sbt's interactive shell. 
+scala
+    The Scala Programming Language
+*scd
+    scd - smart change of directory
+screen
+    This plugin sets title and hardstatus of the tab window for screen, the terminal multiplexer.
+scw
+    Manage BareMetal Servers from Command Line
+sdk
+    SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems.
+sfdx    
+    plugin provides autocompletion for the Salesforce DX CLI.    
+sfffe
+shrink-path
+    A plugin to shrink directory paths for brevity and pretty-printing
+singlechar
+    This plugin adds single char shortcuts (and combinations) for some commands.
+spring
+    spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+sprunge
+    This plugin uploads data and fetch URL from the pastebin http://sprunge.us
+ssh-agent
+    This plugin starts automatically ssh-agent to set up and load whichever credentials you want for ssh connections.
+stack
+    Stack is a cross-platform program for developing Haskell projects
+sublime
+    Plugin for Sublime Text, a cross platform text and code editor
+*sudo
+    Easily prefix your current or previous commands with sudo by pressing esc twice
+supervisor
+    Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
+suse
+    Varios aliases para o SUSE
+svcat
+    Consume services in Kubernetes using the Open Service Broker API https://svc-cat.io
+svn
+    This plugin adds some utility functions to display additional information regarding your current svn repository. See https://subversion.apache.org/ for the full svn documentation.
+svn-fast-info
+    Faster alternative to the current SVN plugin implementation.
+swiftpm
+    Swift Package Manager - IOS
+symfony
+    PHP framework for web projects
+symfony2
+    PHP framework for web projects
+*systemadmin
+    This plugin adds a series of aliases and functions which make a System Administrator's life easier.
+*systemd
+    The systemd plugin provides many useful aliases for systemd.
+*taskwarrior
+    Taskwarrior is Free and Open Source Software that manages your TODO list from the command line
+terminitor
+    Consular (terminitor old name) automates your development workflow setup.
+terraform
+    Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
+textastic
+    macos
+textmate
+    The plugin adds a function for the TextMate editor.
+thefuck
+    The Fuck plugin — magnificent app which corrects your previous console command.
+*themes
+   plugin allows you to change ZSH theme on the go.
+thor
+   this plugin adds completion for Thor, a ruby toolkit for building powerful command-line interfaces.
+*tig
+    Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser
+*timer
+    This plugin allows to display command's execution time in a very nonintrusive way.
+*tmux
+    This plugin provides aliases for tmux, the terminal multiplexer. 
+*tmux-cssh
+    ClusterSSH is a tool for making the same change on multiple servers at the same time. 
+tmuxinator
+    This plugin provides completion for tmuxinator, as well as aliases for frequent tmuxinator commands.
+torrent
+    This plugin creates a Torrent file based on a MagnetURI.
+*transfer
+    transfer.sh is an easy to use file sharing service from the command line
+tugboat
+    This plugin adds autocompletion for Tugboat, a command line tool for interacting with your DigitalOcean droplets.
+*ubuntu
+    This plugin adds completions and aliases for Ubuntu.
+ufw
+    This plugin adds completion for managing everybody's favorite Uncomplicated Firewall (UFW)
+urltools
+    This plugin provides two aliases to URL-encode and URL-decode strings.
+vagrant
+    This plugin adds autocompletion for Vagrant commands, task names, box names and built-in handy documentation.
+vagrant-prompt
+    deprecated
+vault
+    deprecated
+vim-interaction
+    Função para interagir com a sessão aberta do vim
+*vi-mode
+    This plugin increase vi-like zsh functionality.
+virtualenv
+  The plugin displays information of the created virtual container  
+virtualenvwrapper
+    The plugin allows to automatically activate virtualenvs on cd into git repositories with a matching name
+vscode
+    This plugin makes interaction between the command line and the code editor easier.
+vundle
+    This plugin adds functions to control vundle plug-in manager for vim.
+*wakeonlan
+    This plugin provides a wrapper around the "wakeonlan" tool
+*wd
+    wd (warp directory) lets you jump to custom directories in zsh, without using cd
+web-search
+    This plugin adds aliases for searching with Google, Wiki, Bing, YouTube and other popular services.
+wp-cli
+    WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browser.
+xcode
+    macos
+yarn
+    This plugin adds completion for the Yarn package manager. Yarn - Node.js package manager.
+yii
+    Yii is a fast, secure, and efficient PHP framework.
+yii2
+    Yii2 is a fast, secure, and efficient PHP framework.
+yum
+    This plugin adds useful aliases for common Yum commands.Yum is an automatic updater and package installer/remover for rpm systems.
+z
+   Tracks your most used directories, based on 'frecency'.
+zeus
+    Zeus preloads your Rails app so that your normal development tasks such as console, server, generate, and specs/tests take less than one second.
+*zsh-navigation-tools
+    Set of tools like n-history – multi-word history searcher, n-cd – directory bookmark manager, n-kill – htop like kill utility, and more.
+*zsh_reload
+    The zsh_reload plugin defines a function to reload the zsh session with just a few keystrokes.
